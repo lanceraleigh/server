@@ -1,0 +1,364 @@
+[
+    {
+      "groupName": "French 1",
+      "groupIndex": 0,
+      "lessonName": "Intro to French 1",
+      "lessonIndex": 0,
+      "progress": "20%",
+      "lessonQuestions": [
+        {
+          "questionNumber": 1,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 2,
+          "questionType": "Translate this word.",
+          "questionContext": "Hola",
+          "questionAnswer": "hello"
+        },
+        {
+          "questionNumber": 3,
+          "questionType": "Find the correct translation.",
+          "questionContext": "Hello",
+          "questionOptions": [
+            "sí",
+            "hola",
+            "feliz",
+            "gracias"
+          ],
+          "questionAnswer": "hola"
+        },
+        {
+          "questionNumber": 4,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Hola, ____ por venir",
+          "questionAnswer": "gracias"
+        },
+        {
+          "questionNumber": 5,
+          "questionType": "Translate this phrase.",
+          "questionContext": "Mi nombre es Lance",
+          "questionAnswer": "my name is Lance"
+        },
+        {
+          "questionNumber": 6,
+          "questionType": "Find the missing word.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionOptions": [
+            "sí",
+            "hola",
+            "es",
+            "gracias"
+          ],
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 7,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Hola, ¿____ estás?",
+          "questionAnswer": "como"
+        },
+        {
+          "questionNumber": 8,
+          "questionType": "Translate this word.",
+          "questionContext": "como",
+          "questionAnswer": "how"
+        },
+        {
+          "questionNumber": 9,
+          "questionType": "Find the correct translation.",
+          "questionContext": "Thank you",
+          "questionAnswer": [
+            "sí",
+            "hola",
+            "es",
+            "gracias"
+          ]
+        },
+        {
+          "questionNumber": 10,
+          "questionType": "Fill in the blank.",
+          "questionContext": "____, ¿como estás?",
+          "questionAnswer": "hola"
+        }
+      ]
+    },
+    {
+      "groupName": "French 1",
+      "groupIndex": 0,
+      "lessonName": "Intro to French 2",
+      "lessonIndex": 1,
+      "progress": "40%",
+      "lessonQuestions": [
+        {
+          "questionNumber": 1,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 2,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 3,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 4,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 5,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 6,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 7,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 8,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 9,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 10,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        }
+      ]
+    },
+    {
+      "groupName": "French 1",
+      "groupIndex": 0,
+      "lessonName": "Intro to French 3",
+      "lessonIndex": 2,
+      "progress": "60%",
+      "lessonQuestions": [
+        {
+          "questionNumber": 1,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 2,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 3,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 4,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 5,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 6,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 7,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 8,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 9,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 10,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        }
+      ]
+    },
+    {
+      "groupName": "French 1",
+      "groupIndex": 0,
+      "lessonName": "Intro to French 4",
+      "lessonIndex": 3,
+      "progress": "80%",
+      "lessonQuestions": [
+        {
+          "questionNumber": 1,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 2,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 3,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 4,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 5,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 6,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 7,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 8,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 9,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 10,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        }
+      ]
+    },
+    {
+      "groupName": "French 1",
+      "groupIndex": 0,
+      "lessonName": "Intro to French 5",
+      "lessonIndex": 4,
+      "progress": "100%",
+      "lessonQuestions": [
+        {
+          "questionNumber": 1,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 2,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 3,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 4,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 5,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 6,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 7,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 8,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 9,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        },
+        {
+          "questionNumber": 10,
+          "questionType": "Fill in the blank.",
+          "questionContext": "Mi nombre ____ Lance",
+          "questionAnswer": "es"
+        }
+      ]
+    }
+  ]
